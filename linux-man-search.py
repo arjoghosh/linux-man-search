@@ -1,3 +1,5 @@
+# Author : Arjo Ghosh আর্য্য ঘোষ
+
 import requests
 from bs4 import BeautifulSoup
 x=input("Enter command name : ")
